@@ -1,6 +1,8 @@
 Gearmand
 ========
 
+[![](https://badge.imagelayers.io/zanox/gearmand:latest.svg)](https://imagelayers.io/?images=zanox/gearmand:latest 'Get your own badge on imagelayers.io')
+
 Basic no-frills Gearman server.
 
 License
